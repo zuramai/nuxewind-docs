@@ -1,0 +1,10 @@
+{
+  "title": "Nuxewind Documentation",
+  "url": "nuxewind.zuramai.net",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "zuramai/nuxewind-docs",
+  "twitter": "@amsaugi"
+}
